@@ -1,0 +1,35 @@
+# Keil MDK 编译产物
+*.o
+*.d
+*.crf
+*.axf
+*.map
+*.lnp
+*.htm
+*.dep
+*.iex
+*.hex
+*.lst
+Objects/
+Listings/
+Debug/
+Release/
+
+# 备份文件
+*.bak
+*.bak_old
+*.bak_mixed
+
+# Keil 用户配置
+*.uvoptx
+*.uvguix
+*.uvguix.*
+
+# Keil 编译日志
+build_log*.txt
+flash_log*.txt
+*.log
+
+# 系统文件
+Thumbs.db
+Desktop.ini
